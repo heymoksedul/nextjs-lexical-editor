@@ -219,3 +219,19 @@ body {
   color: #000;
   resize: vertical;
 }
+
+.editor-text-left {
+  text-align: left;
+}
+
+.editor-text-center {
+  text-align: center;
+}
+
+.editor-text-right {
+  text-align: right;
+}
+
+.editor-text-justify {
+  text-align: justify;
+}
